@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "courseScoreWeb", "courseScoreWeb.csproj", "{12DA1328-C083-4ABE-8556-D1C0097EE1B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Debug|x64.ActiveCfg = Debug|x64
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Debug|x64.Build.0 = Debug|x64
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Release|x64.ActiveCfg = Release|x64
+		{12DA1328-C083-4ABE-8556-D1C0097EE1B3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A479FC-8EAF-4261-8CEC-814B5355F045}
+	EndGlobalSection
+EndGlobal

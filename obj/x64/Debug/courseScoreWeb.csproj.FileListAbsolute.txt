@@ -1,0 +1,6 @@
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\bin\courseScoreWeb.dll.config
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\bin\courseScoreWeb.dll
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\bin\courseScoreWeb.pdb
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\obj\x64\Debug\courseScoreWeb.csproj.CoreCompileInputs.cache
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\obj\x64\Debug\courseScoreWeb.dll
+D:\flz_new\FLZ_Dokuman\FLZ_DKUMAN\web\Asp.Net Bootstrap İle SQL Tabanlı Web Proje\courseScoreWeb\obj\x64\Debug\courseScoreWeb.pdb
