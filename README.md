@@ -44,6 +44,7 @@ Course Score Web is a platform that digitizes essential academic management func
 
 📌 This project is developed to digitalize academic processes for students and teachers. 🎯
 
+![image](https://github.com/user-attachments/assets/bb055366-996e-4a60-95a1-81ab3567bbd7)
 
 
 
