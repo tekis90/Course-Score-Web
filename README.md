@@ -46,5 +46,18 @@ Course Score Web is a platform that digitizes essential academic management func
 
 ![image](https://github.com/user-attachments/assets/bb055366-996e-4a60-95a1-81ab3567bbd7)
 
+![image](https://github.com/user-attachments/assets/621dc069-6136-4f83-b14a-ba8e9eb3c3db)
 
+![image](https://github.com/user-attachments/assets/2f1c9137-de2d-4459-8fe5-dd16fbca6ab0)
 
+![image](https://github.com/user-attachments/assets/82102705-7eae-4b73-a759-97179cc9091d)
+
+![image](https://github.com/user-attachments/assets/9c190db1-5f5b-45bd-9b70-6bd6ddc0b0cd)
+
+![image](https://github.com/user-attachments/assets/a735ee0d-07c4-4b44-88c9-fb978b532be0)
+
+![image](https://github.com/user-attachments/assets/0db8e670-96ce-4ee7-9296-bc1fdc82afd4)
+
+![image](https://github.com/user-attachments/assets/ff9da8a0-4bc8-4760-8c2c-bd0cac83dcdf)
+
+![image](https://github.com/user-attachments/assets/53502b80-a3f7-4e86-97e1-b61391b81b8c)
